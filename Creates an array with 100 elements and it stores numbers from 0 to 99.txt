@@ -1,0 +1,35 @@
+Write a program that meets the following requirements:
+
+Creates an array with 100 elements and it stores numbers from 0 to 99(use arr[i] = i)
+
+Prompts the user to enter the index of the array,then displays the corresponding
+
+element value.If specified index is out of bounds,display the message "Out of Bounds".
+
+Input format
+
+index<integer number>
+
+Output format
+
+The corresponding element value is <integer number>
+
+or
+Out of Bounds.
+
+Sample testcases
+
+
+Input 1							Output 1
+
+1								The corresponding element value is 34
+
+
+Input 2							Output 2
+
+34								The corresponding element value is 34
+
+
+Input 3							Output 3
+
+102	      						Out of Bounds.
